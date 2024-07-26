@@ -1,0 +1,6 @@
+
+Cedula Empleado: 1050323094, Cliente: Juan Velasquez, Cedula: 1002003008, Placa: ABC-9478, Gasolina: Super, Cantidad: 3, Total: 9,00
+Cedula Empleado: 1050323094, Cliente: Juan Velasquez, Cedula: 1002003008, Placa: ABC-9478, Gasolina: Super, Cantidad: 3, Total: 9,00
+
+Cedula Empleado: 1050323094, Cliente: juan hernandez, Cedula: 1002003005, Placa: IBE-8954, Gasolina: Super, Cantidad: 3, Total: 9,00
+

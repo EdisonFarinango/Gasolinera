@@ -1,0 +1,4 @@
+1050323094,Estación Norte,XYZ-9478,Diesel,5
+1050323094,Estación Norte,ABC-9478,Super,4
+1050323094,Estación Norte,ABC-9478,Super,3
+1050323094,Estacion Central,IBE-8954,Super,3

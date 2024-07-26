@@ -1,0 +1,4 @@
+1002003005,juan,hernandez,0123456789,ibarra,IBE-8954
+2003004006,maria,gomez,0987654321,quito,ABC-1234
+3004005007,luis,rodriguez,0998765432,cuenca,XYZ-5678
+1002003008,Juan,Velasquez,099999999,ibarra,ABC-9478
